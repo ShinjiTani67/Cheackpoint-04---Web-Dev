@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+h1{
+  color: rgb(42, 42, 228);
+  font-size: 98;
+  font-family: Verdana;
+}
+
+#background{
+  background-color: rgb(255, 217, 203);
+}
+#caixa{
+  background-color: rgb(255, 255, 255);
+  height:80px;
+  width:60%;
+}
+#contatos_org{
+  width: 1036px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
